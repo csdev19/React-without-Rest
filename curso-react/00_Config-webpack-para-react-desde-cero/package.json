@@ -1,0 +1,23 @@
+{
+  "name": "configuracion-webpack-react",
+  "version": "1.0.0",
+  "description": "aqui veremos como configurar webapck desde cero para un proyecto personalizado de webpack",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pystudent1913/React-without-Rest.git"
+  },
+  "keywords": [
+    "react",
+    "webpack"
+  ],
+  "author": "Cristian Fabrizio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pystudent1913/React-without-Rest/issues"
+  },
+  "homepage": "https://github.com/pystudent1913/React-without-Rest#readme"
+}
