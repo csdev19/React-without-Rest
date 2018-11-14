@@ -17,7 +17,7 @@ module.exports = (env) => {
   return {
 
     entry: {
-      invie: path.resolve(__dirname, 'src/index.js'),
+      "archivo-proyecto": path.resolve(__dirname, 'src/index.js'),
     },
     output: {
       path: path.resolve(__dirname, 'dist'),
